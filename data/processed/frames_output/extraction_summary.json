@@ -1,0 +1,11 @@
+{
+  "video_filename": "video_with_overlay.mp4",
+  "source_fps": 10.0,
+  "source_total_frames": 20,
+  "extraction_interval_sec": 0.5,
+  "blur_threshold": 100.0,
+  "frames_extracted": 4,
+  "frames_flagged_blurry": 0,
+  "frames_dir": "data\\processed\\frames_output\\frames",
+  "manifest_csv": "data\\processed\\frames_output\\frame_manifest.csv"
+}

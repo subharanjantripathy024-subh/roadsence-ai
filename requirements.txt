@@ -1,0 +1,16 @@
+# RoadSense AI - Member 1 (Vision & Data) requirements
+# Core
+opencv-python>=4.9.0
+numpy>=1.26.0
+
+# GPS metadata / OCR
+pytesseract>=0.3.10
+pymediainfo>=6.1.0
+gpxpy>=1.6.2
+
+# YOLOv8 (Phase 3 - install when you get there, heavier download)
+ultralytics>=8.2.0
+torch>=2.2.0
+
+# Utility
+tqdm>=4.66.0

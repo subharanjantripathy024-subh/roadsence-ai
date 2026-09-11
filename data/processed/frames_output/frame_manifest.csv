@@ -1,0 +1,5 @@
+frame_number,saved_index,timestamp_sec,filename,laplacian_variance,is_blurry
+0,0,0.0,frame_00000.jpg,1185.1,False
+5,1,0.5,frame_00001.jpg,1179.48,False
+10,2,1.0,frame_00002.jpg,1194.69,False
+15,3,1.5,frame_00003.jpg,1193.65,False

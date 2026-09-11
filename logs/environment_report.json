@@ -1,0 +1,23 @@
+{
+  "timestamp_utc": "2026-09-09T17:49:23.848900+00:00",
+  "python_version": "3.13.5",
+  "binaries": {
+    "ffmpeg": true,
+    "ffprobe": true,
+    "tesseract": true
+  },
+  "python_packages": {
+    "opencv (cv2)": "5.0.0",
+    "pytesseract": "0.3.13",
+    "pymediainfo": "7.0.1",
+    "gpxpy": "1.6.2",
+    "ultralytics": "8.4.145",
+    "torch": "2.14.0+cpu"
+  },
+  "hardware": {
+    "gpu_available": false,
+    "device_name": null,
+    "detection_method": null
+  },
+  "recommended_training_mode": "CPU (use yolov8n, small image size, fewer epochs, or Colab/Kaggle GPU)"
+}

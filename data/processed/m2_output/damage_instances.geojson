@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0001",
+        "road_id": "unknown",
+        "damage_type": "other corruption",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.2324,
+        "estimated_repair_cost": 4000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00000",
+        "timestamp": "0.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0002",
+        "road_id": "unknown",
+        "damage_type": "other corruption",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.3023,
+        "estimated_repair_cost": 4000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00001",
+        "timestamp": "1.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0003",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "critical",
+        "priority": 1,
+        "confidence": 0.5527,
+        "estimated_repair_cost": 7500.0,
+        "status": "pending",
+        "detection_count": 2,
+        "frame_id": "frame_00002",
+        "timestamp": "2.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0004",
+        "road_id": "unknown",
+        "damage_type": "other corruption",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.2044,
+        "estimated_repair_cost": 4000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00002",
+        "timestamp": "2.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0005",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "critical",
+        "priority": 1,
+        "confidence": 0.503,
+        "estimated_repair_cost": 7500.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00003",
+        "timestamp": "3.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0006",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "high",
+        "priority": 2,
+        "confidence": 0.3735,
+        "estimated_repair_cost": 6250.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00005",
+        "timestamp": "5.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0007",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.2354,
+        "estimated_repair_cost": 5000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00006",
+        "timestamp": "6.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0008",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "critical",
+        "priority": 1,
+        "confidence": 0.5037,
+        "estimated_repair_cost": 7500.0,
+        "status": "pending",
+        "detection_count": 2,
+        "frame_id": "frame_00007",
+        "timestamp": "7.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0009",
+        "road_id": "unknown",
+        "damage_type": "other corruption",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.4117,
+        "estimated_repair_cost": 4000.0,
+        "status": "pending",
+        "detection_count": 2,
+        "frame_id": "frame_00007",
+        "timestamp": "7.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0010",
+        "road_id": "unknown",
+        "damage_type": "other corruption",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.4187,
+        "estimated_repair_cost": 4000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00008",
+        "timestamp": "8.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0011",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.2371,
+        "estimated_repair_cost": 5000.0,
+        "status": "pending",
+        "detection_count": 2,
+        "frame_id": "frame_00008",
+        "timestamp": "8.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0012",
+        "road_id": "unknown",
+        "damage_type": "other corruption",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.2747,
+        "estimated_repair_cost": 4000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00009",
+        "timestamp": "9.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0013",
+        "road_id": "unknown",
+        "damage_type": "other corruption",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.4154,
+        "estimated_repair_cost": 4000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00010",
+        "timestamp": "10.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0014",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.2195,
+        "estimated_repair_cost": 5000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00010",
+        "timestamp": "10.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0015",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "critical",
+        "priority": 1,
+        "confidence": 0.6405,
+        "estimated_repair_cost": 7500.0,
+        "status": "pending",
+        "detection_count": 2,
+        "frame_id": "frame_00011",
+        "timestamp": "11.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0016",
+        "road_id": "unknown",
+        "damage_type": "other corruption",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.262,
+        "estimated_repair_cost": 4000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00017",
+        "timestamp": "17.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0017",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.2425,
+        "estimated_repair_cost": 5000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00018",
+        "timestamp": "18.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0018",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.2917,
+        "estimated_repair_cost": 5000.0,
+        "status": "pending",
+        "detection_count": 2,
+        "frame_id": "frame_00019",
+        "timestamp": "19.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0019",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "high",
+        "priority": 2,
+        "confidence": 0.3186,
+        "estimated_repair_cost": 6250.0,
+        "status": "pending",
+        "detection_count": 2,
+        "frame_id": "frame_00021",
+        "timestamp": "21.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0020",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.2166,
+        "estimated_repair_cost": 5000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00024",
+        "timestamp": "24.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0021",
+        "road_id": "unknown",
+        "damage_type": "other corruption",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.2155,
+        "estimated_repair_cost": 4000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00024",
+        "timestamp": "24.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0022",
+        "road_id": "unknown",
+        "damage_type": "other corruption",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.3189,
+        "estimated_repair_cost": 4000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00025",
+        "timestamp": "25.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0023",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "medium",
+        "priority": 3,
+        "confidence": 0.238,
+        "estimated_repair_cost": 5000.0,
+        "status": "pending",
+        "detection_count": 1,
+        "frame_id": "frame_00026",
+        "timestamp": "26.0",
+        "gps_available": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "damage_id": "damage-0024",
+        "road_id": "unknown",
+        "damage_type": "pothole",
+        "severity": "critical",
+        "priority": 1,
+        "confidence": 0.7485,
+        "estimated_repair_cost": 7500.0,
+        "status": "pending",
+        "detection_count": 2,
+        "frame_id": "frame_00027",
+        "timestamp": "27.0",
+        "gps_available": false
+      }
+    }
+  ]
+}

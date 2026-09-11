@@ -1,0 +1,33 @@
+detection_id,timestamp,latitude,longitude,road_id,damage_type,confidence,frame_id
+d-8cc80587,0.0,,,unknown,other corruption,0.2324,frame_00000
+d-555cf494,1.0,,,unknown,other corruption,0.3023,frame_00001
+d-52706205,2.0,,,unknown,Pothole,0.5527,frame_00002
+d-9fc17153,2.0,,,unknown,Pothole,0.3322,frame_00002
+d-c0fb151d,2.0,,,unknown,other corruption,0.2044,frame_00002
+d-31614f40,3.0,,,unknown,Pothole,0.503,frame_00003
+d-f5a626d1,5.0,,,unknown,Pothole,0.3735,frame_00005
+d-40ecd70d,6.0,,,unknown,Pothole,0.2354,frame_00006
+d-fc74b435,7.0,,,unknown,Pothole,0.5037,frame_00007
+d-0f27db00,7.0,,,unknown,Pothole,0.5029,frame_00007
+d-1fe5b757,7.0,,,unknown,other corruption,0.4117,frame_00007
+d-fa00c5ad,7.0,,,unknown,other corruption,0.2069,frame_00007
+d-a5991482,8.0,,,unknown,other corruption,0.4187,frame_00008
+d-2ff0ebb7,8.0,,,unknown,Pothole,0.2371,frame_00008
+d-b15a1da9,8.0,,,unknown,Pothole,0.2188,frame_00008
+d-48a98d8b,9.0,,,unknown,other corruption,0.2747,frame_00009
+d-efd9f53a,10.0,,,unknown,other corruption,0.4154,frame_00010
+d-0531739e,10.0,,,unknown,Pothole,0.2195,frame_00010
+d-099429e5,11.0,,,unknown,Pothole,0.6405,frame_00011
+d-16c65310,11.0,,,unknown,Pothole,0.2412,frame_00011
+d-7b00ae80,17.0,,,unknown,other corruption,0.262,frame_00017
+d-9ba3b9b3,18.0,,,unknown,Pothole,0.2425,frame_00018
+d-af8f59f7,19.0,,,unknown,Pothole,0.2917,frame_00019
+d-1a52e538,19.0,,,unknown,Pothole,0.2323,frame_00019
+d-9fba06f5,21.0,,,unknown,Pothole,0.3186,frame_00021
+d-227175bb,21.0,,,unknown,Pothole,0.2013,frame_00021
+d-b84a0720,24.0,,,unknown,Pothole,0.2166,frame_00024
+d-eb4b2dd5,24.0,,,unknown,other corruption,0.2155,frame_00024
+d-c90f80c4,25.0,,,unknown,other corruption,0.3189,frame_00025
+d-bb54b638,26.0,,,unknown,Pothole,0.238,frame_00026
+d-3df9b956,27.0,,,unknown,Pothole,0.7485,frame_00027
+d-6d6866fc,27.0,,,unknown,Pothole,0.6517,frame_00027

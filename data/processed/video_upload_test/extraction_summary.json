@@ -1,0 +1,11 @@
+{
+  "video_filename": "pothole_video.mp4",
+  "source_fps": 25.0,
+  "source_total_frames": 692,
+  "extraction_interval_sec": 1.0,
+  "blur_threshold": 100.0,
+  "frames_extracted": 28,
+  "frames_flagged_blurry": 0,
+  "frames_dir": "C:\\Users\\Subha\\OneDrive\\Desktop\\roadsense-ai\\data\\processed\\video_upload_test\\frames",
+  "manifest_csv": "C:\\Users\\Subha\\OneDrive\\Desktop\\roadsense-ai\\data\\processed\\video_upload_test\\frame_manifest.csv"
+}
